@@ -1,0 +1,11 @@
+.Title, .Recipe {
+    text-align: center;
+}
+
+.Title {
+    background-color: #096909;
+}
+
+.Recipe {
+    font-size: 20px;
+}
